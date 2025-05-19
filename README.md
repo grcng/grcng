@@ -1,6 +1,6 @@
 ## 💖 Hi there, I'm Viri <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-Welcome to my GitHub! I'm a developer passionate about building clean, efficient, and fun web experiences — especially for community-driven events and open-source projects. I am currently the president of [PACS](https://github.com/PACS-TMU), a student group focused on building tech solutions within TMU!
+Welcome to my GitHub! I'm a Math & Computer Science co-op student entering my final year of studies. I'm a developer passionate about building clean, efficient, and fun web experiences — especially for community-driven events and open-source projects. I am currently the president of [PACS](https://github.com/PACS-TMU), a student group focused on building tech solutions within TMU!
 
 - 🎀 CS student with a strong interest in **web development**, **databases**, and **data analysis**
 - ☕️ I’m currently working on the [TerraHacks 2025](https://terrahacks.ca/) Hackathon Website
